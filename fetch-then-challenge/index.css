@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #2b2a33;
+  color: #fbfbfe;
+  font-size: 13px;
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+main {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#text-container {
+  border: 5px solid #42414d;
+  border-radius: 5px;
+  padding: 1rem;
+  box-shadow: 3px 3px 3px #1a191f;
+}
+
+#text-container p {
+  color: #7a7a7c;
+}
+
+.text {
+  color: #fbfbfe;
+}
