@@ -1,15 +1,43 @@
-# Async JavaScript APIs
+# Projeto de APIs JavaScript Assíncronas
 
-Learn how to fetch data from APIs using asynchronous JavaScript techniques such as promises and async/await.
+## Introdução
+Este projeto é uma iniciativa para aprender sobre APIs JavaScript assíncronas e como elas podem ser utilizadas em aplicações modernas.
 
-## About Scrimba
+## Tópicos Abordados
+- Promessas
+- Async/Await
+- Fetch API
+- Manipulação de dados assíncrona
+- Erros em funções assíncronas
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Stack Utilizado
+- JavaScript
+- Node.js
+- Express
+- MongoDB (opcional)
+- APIs REST
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Como Usar
+1. Clone o repositório.
+2. Instale as dependências: `npm install`.
+3. Execute o projeto: `npm start`.
+4. Acesse a aplicação pelo navegador em `http://localhost:3000`.
 
-Happy Coding!
+## Pré-requisitos
+- Conhecimento básico de JavaScript.
+- Um ambiente de desenvolvimento configurado (Node.js e npm).
+
+## Dicas de Aprendizado
+- Pratique implementando pequenos projetos.
+- Leia a documentação das tecnologias utilizadas.
+- Siga tutoriais online.
+
+## Recursos Úteis
+- [Documentação do Node.js](https://nodejs.org/en/docs/)
+- [MDN Web Docs - JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Async/Await - MDN](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Asynchronous/Async_await)
+
+## Informações do Autor
+- Nome: [Seu Nome]
+- GitHub: [obrnocsta]
+- Email: [seu.email@example.com]
